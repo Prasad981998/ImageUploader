@@ -73,3 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Special thanks to the Django community for their amazing framework.
+
+## NOTE
+- This project is in development phase many functionalities are in process to update.
