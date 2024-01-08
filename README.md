@@ -1,7 +1,8 @@
 # Django Image Uploader
 
 Django Image Uploader is a simple web application built with Django that allows users to upload and manage images. It provides a user-friendly interface for uploading images, and the uploaded images are stored in the server's file system.
-
+![screenshot](https://github.com/Prasad981998/ImageUploader/blob/master/screenshotIU.PNG)
+*Caption: This is home page.*
 ## Features
 
 - **Image Upload:** Users can upload images through a user-friendly interface.
